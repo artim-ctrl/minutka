@@ -1,6 +1,17 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+# yii console commands
+/yii
+/yii_test
+/yii_test.bat
+
+# composer vendor dir
+/vendor
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+# vagrant runtime
+/.vagrant
+
+/web/assets
