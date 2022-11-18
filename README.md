@@ -1,1 +1,1 @@
-Попытка переписать первый сайт под заказ(СТО "Минутка"). Начало было положено, но мотивации для продолжения не нашел, проект заброшен. Писался хз когда, насколько помню тогда же, когда и заливался.
+An attempt to rewrite <a href="https://github.com/artim-ctrl/minutka-old">the first site</a> to order. A start was made, but I did not find the motivation to continue, the project was abandoned. I don’t remember when it was written, how much it seems to be at the same time when it was uploaded to github.
